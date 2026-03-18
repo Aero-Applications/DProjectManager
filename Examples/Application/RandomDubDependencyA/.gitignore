@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/random-dub-dependency-a
+random-dub-dependency-a.so
+random-dub-dependency-a.dylib
+random-dub-dependency-a.dll
+random-dub-dependency-a.a
+random-dub-dependency-a.lib
+random-dub-dependency-a-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

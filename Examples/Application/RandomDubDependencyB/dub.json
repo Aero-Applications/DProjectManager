@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"French Dude"
+	],
+	"copyright": "Hau Hau Hau",
+	"description": "just a test",
+	"license": "proprietary",
+	"name": "random-dub-dependency-b",
+	"targetType": "library"
+}

@@ -1,0 +1,6 @@
+**/bin/
+**/obj/
+DProjectManager/projects/
+**/.DProjectManager/
+.idea/
+**/.DS_Store
