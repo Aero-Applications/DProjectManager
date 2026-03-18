@@ -1,6 +1,6 @@
 # DProjectManager
 
-    Welcome to the DProjectManager repository. This project is a proof of concept build system for the D programming language and C++, it is not actively being maintained. I don't know about you, but for me, I love a build system where the scripts are written in the target language, (or similar in the case of C++). Build systems like these allow
+Welcome to the DProjectManager repository. This project is a proof of concept build system for the D programming language and C++, it is not actively being maintained. I don't know about you, but for me, I love a build system where the scripts are written in the target language, (or similar in the case of C++). Build systems like these allow
 
 - flexability,
 - autocomplete,
@@ -14,7 +14,11 @@ DProjectManager itself was designed to be a simple build, just two files. There 
 
 # How to Use
 
-Using DProjectManager is just as simple as building it. All you need to do is type this command: 'DProjectManager/bin/DProjectManager -debug ./path/to/project.d' and your good to go.
+Using DProjectManager is just as simple as building it. All you need to do is type this command: 
+
+    DProjectManager/bin/DProjectManager -debug ./path/to/project.d
+
+and your good to go.
 
 # Platforms
 
