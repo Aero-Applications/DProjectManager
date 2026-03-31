@@ -1,6 +1,6 @@
 # Application
 
-This exampe shows how to build a project that:
+This example shows how to build a project that:
 
 * Links 2 Dub Dependencies,
 * Links 1 DProjectManager Dependency,
